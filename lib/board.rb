@@ -1,4 +1,3 @@
-board = [" ","X"," "," ","X"," ","X"," "
-]
+board = [" ","X"," "," ","X"," ","X"," "]
 
 # Define the variable board below.
