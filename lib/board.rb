@@ -1,4 +1,4 @@
-board = ["O","X","O","O","X","O","O","X","O"]
+puts board = [" "," "," "," "," "," "," "," "," "]
 
 
 # Define the variable board below.
